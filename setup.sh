@@ -9,3 +9,5 @@ pip3 install sklearn
 pip3 install pandas
 pip3 install xlrd
 pip3 install h5py
+git config --global user.email "kalradivyanshu@gmail.com"
+git config --global user.name "kalradivyanshu"
